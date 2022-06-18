@@ -33,7 +33,7 @@ ul li{
     background: whitesmoke;
     font-size: 18px;
     transition: 0.2s;
-    user-select: none;
+    -webkit-user-select: none;
 }
 
 ul li:hover{
